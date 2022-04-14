@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <TIBCOInstallerFeatures>
 
-	<productDef name="TIBCO Defcon 3.0.0" id="defcon" version="3.0.0" releaseType="base" supportedPlatforms="win/x86,linux/x86,aix/power,linux/s390x" universalinstallerrelease="3.6.2" universalinstallerversion="L" compatDisplayName="TIBCO Defcon" compatType="defcon" installDir="defcon/3.0" />
+	<productDef name="TIBCO Defcon 3.0.0" id="defcon" version="3.0.0" releaseType="base" supportedPlatforms="win/x86_64,linux/x86_64" universalinstallerrelease="3.6.2" universalinstallerversion="L" compatDisplayName="TIBCO Defcon" compatType="defcon" installDir="defcon/3.0" />
 
 
 	<customVariables>
