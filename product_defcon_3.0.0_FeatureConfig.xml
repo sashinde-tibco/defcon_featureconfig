@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+?xml version='1.0' encoding='utf-8'?>
 <TIBCOInstallerFeatures>
 
 	<productDef name="TIBCO Defcon 3.0.0" id="defcon" version="3.0.0" releaseType="base" supportedPlatforms="win/x86_64,linux/x86_64" universalinstallerrelease="3.7.4" universalinstallerversion="L" compatDisplayName="TIBCO Defcon" compatType="defcon" installDir="defcon/3.0" />
